@@ -1,0 +1,6 @@
+pythondns
+bs4
+requests
+urllib
+lxml
+re
